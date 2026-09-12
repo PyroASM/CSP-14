@@ -1,7 +1,8 @@
 # CSP-14
-Common Serial Port 14 pin
-o front of side 1 (host, holes)
-+ back of side 2 (device, pins)
+Common Serial Port 14 pin  
+
+o front of side 1 (host, holes)  
+\+ back of side 2 (device, pins)
 
 o v0.10
 
