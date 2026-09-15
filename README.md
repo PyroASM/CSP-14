@@ -10,3 +10,6 @@ o v0.10
 |--|--|--|--|--|--|--|
 | SCL | VDD | MOSI | SCK | MISO | AN3 | AN1 |
 | SDA | GND | URX | UCK/AN0 | UTX | AN4 | AN2 |
+
+
+Use cases 
