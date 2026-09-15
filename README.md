@@ -23,7 +23,7 @@ Host and Device sides are different.
 The reverseablity term is applied to Device side only. This possibility do not dependent on Host.
 
 
-# Recommendations for Host implementation:  
+# Recommendations for Host implementation:   
 
 Priority for PWM placement:  
 AN4 AN3 AN2 AN1 AN0  
