@@ -39,9 +39,9 @@ AN2 - GND
 AN3 - VDD  
 
 ESP32 just need to optimally place ADC, 1 or 2 ports  
-RP2 have many groups of SPI I2C UART but few adc 2-3 ports 
-STM32 is hard to find optimal layout to get more interfaces but possible 2 and more ports 
-STM8f103, CH32v003, Atmega can have single CSP-14 port 
+RP2 have many groups of SPI I2C UART but few adc 2-3 ports  
+STM32 is hard to find optimal layout to get more interfaces but possible 2 and more ports  
+STM8f103, CH32v003, Atmega can have single CSP-14 port  
 
 
 
