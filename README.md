@@ -23,7 +23,7 @@ Host and Device sides are different.
 The reverseablity term is applied to Device side only. This possibility do not dependent on Host.
 
 
-Recommendations for Host implementation:  
+# Recommendations for Host implementation:  
 
 Priority for PWM placement:  
 AN4 AN3 AN2 AN1 AN0  
@@ -46,7 +46,7 @@ STM8f103, CH32v003, Atmega can have single CSP-14 port
 
 
 
-Recommendations for device implementation:
+# Recommendations for device implementation:
 
 Reverseable design is not required  
 
