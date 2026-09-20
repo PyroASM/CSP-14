@@ -4,12 +4,12 @@ Common Serial Port 14 pin
 o front of side 1 (host, holes)  
 \+ back of side 2 (device, pins)
 
-o v0.10
+o v0.11
 
 |  |  |  |  |  |  |  |
 |--|--|--|--|--|--|--|
-| SCL | VDD | MOSI | SCK | MISO | AN2 | AN1 |
-| SDA | GND | URX | UCK/AN0 | UTX | AN3 | AN4 |
+| AN4 | AN3 | MOSI | SCK | MISO | AN2 | AN1 |
+| SDA | GND | URX | UCK/AN0 | UTX | VDD | SCL |
 
 
 Based on 14 pin 1.27 mm pin header  

@@ -215,7 +215,12 @@ AN4 SDA URX  UCK   UTX  GND AN2
 
 + allow connection of symmetrical pins on Device side for power and data reversing
 
+
 o v0.10
-SCL VDD MOSI SCK MISO AN3 AN1
-SDA GND URX  UCK UTX  AN4 AN2
-             AN0
+
+|  |  |  |  |  |  |  |
+|--|--|--|--|--|--|--|
+| SCL | VDD | MOSI | SCK | MISO | AN2 | AN1 |
+| SDA | GND | URX | UCK/AN0 | UTX | AN3 | AN4 |
+
+
